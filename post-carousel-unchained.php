@@ -455,6 +455,6 @@ FLBuilder::register_module('PostCarouselUnchainedModule', array(
 
 	'content'   => array(
 		'title'         => __('Content', 'fl-builder'),
-		'file'          => MY_MODULES_DIR . 'post-carousel-unchained/includes/loop-settings.php',
+		'file'          => FL_BUILDER_DIR . 'includes/loop-settings.php',
 	)
 ));
